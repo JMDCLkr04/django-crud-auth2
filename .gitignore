@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+db.sqlite3
+.vscode
+media
+venv
+__pycache__
+**/__pycache__
